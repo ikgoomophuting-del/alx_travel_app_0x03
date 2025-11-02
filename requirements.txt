@@ -1,5 +1,10 @@
 Django>=4.2
 celery>=5.3
 rabbitmq-client
+graphene-django
+requests
+celery
+django-celery-results
+python-dotenv
 
 pip install -r requirements.txt
